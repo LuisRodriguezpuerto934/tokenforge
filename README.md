@@ -174,3 +174,10 @@ Submitted to **USDC Agent Hackathon 2026**
 ---
 
 **Built with ⚓ Anchor on Solana**
+
+## Quickstart
+
+```bash
+# TODO: agrega pasos de instalacion/ejecucion
+```
+
